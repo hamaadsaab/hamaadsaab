@@ -1,8 +1,8 @@
 <h3 align="center">A Information technology Student and Enthusiast interested in Technology and Web development.</h3>
 
-- 🔭 I’m currently working on **REACT**
+- 🔭 I’m currently working on **MERN STACK**
 
-- 💬 Ask me about **react, node**
+- 💬 Ask me about **react,redux, node, express,MongoDb,SQL**
 
 - ⚡ Fun fact **I think I am funny**
 
